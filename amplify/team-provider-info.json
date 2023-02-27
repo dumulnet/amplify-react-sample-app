@@ -1,0 +1,23 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-photoalbums-dev-23847-authRole",
+      "UnauthRoleArn": "arn:aws:iam::293078692424:role/amplify-photoalbums-dev-23847-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::293078692424:role/amplify-photoalbums-dev-23847-authRole",
+      "Region": "ap-northeast-2",
+      "DeploymentBucketName": "amplify-photoalbums-dev-23847-deployment",
+      "UnauthRoleName": "amplify-photoalbums-dev-23847-unauthRole",
+      "StackName": "amplify-photoalbums-dev-23847",
+      "StackId": "arn:aws:cloudformation:ap-northeast-2:293078692424:stack/amplify-photoalbums-dev-23847/989ad590-b6c5-11ed-bf6f-02bfa6098354",
+      "AmplifyAppId": "d1xmz5q5k8vbr3"
+    },
+    "categories": {
+      "auth": {
+        "photoalbumsd5145dc3": {}
+      },
+      "api": {
+        "photoalbums": {}
+      }
+    }
+  }
+}
